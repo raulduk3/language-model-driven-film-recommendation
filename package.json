@@ -1,0 +1,34 @@
+{
+	"name": "language-model-driven-film-recommendation",
+	"version": "0.0.1",
+	"type": "module",
+	"description": "CineMatchAI is a web application that leverages Large Language Models to provide personalized film recommendations through advanced semantic search and heuristic analysis.",
+	"main": "src/index.ts",
+	"scripts": {
+		"run": "node src/app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/raulduk3/language-model-driven-film-recommendation.git"
+	},
+	"keywords": [
+		"llm",
+		"films",
+		"undergraduate",
+		"gpt",
+		"omdb",
+		"tmdb"
+	],
+	"author": "Richard Alvarez <alvarez1@kenyon.edu>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/raulduk3/language-model-driven-film-recommendation/issues"
+	},
+	"homepage": "https://github.com/raulduk3/language-model-driven-film-recommendation#readme",
+	"dependencies": {
+		"commander": "^12.0.0",
+		"inquirer": "^9.2.15",
+		"langchain": "^0.1.22",
+		"node-fetch": "^3.3.2"
+	}
+}
