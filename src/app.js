@@ -5,15 +5,6 @@ import { analyzePreferences } from './preferences/preferenceAnalyzer.js';
 // import { discoverMovies } from './discovery/movieDiscoverer.js';
 // import { evaluateRecommendations } from './recommendation/recommendationEvaluator.js';
 
-const loadCache = async () => {
-    try {
-        const data = await fs.readFile('movieCache.json', 'utf-8');
-        return JSON.parse(data);
-    } catch (error) {
-        return []; // Return an empty array if the file doesn't exist or an error occurs
-    }
-};
-
 // Ingest user's favorite films
 const favoriteFilms = ingestFavoriteFilms();
 

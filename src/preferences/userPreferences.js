@@ -4,14 +4,14 @@ import { searchMovies } from '../api/tmdb.js';
 
 /**
  * Load movie data from file storage.
- * @returns {Object} Cached movie data 
+ * @returns {Object} Cached movie data.
  */
 const loadCache = async () => {
 	try {
 		const data = await fs.readFile('./movieCache.json', 'utf-8');
 		return JSON.parse(data);
 	} catch (error) {
-		return []; // Return an empty array if the file doesn't exist or an error occurs
+		return []; 
 	}
 };
 
@@ -22,13 +22,15 @@ const askForMovies = async (initialCount, maxMovies) => {
 	let movies = [];
 	let cache = await loadCache();
 
-	console.log(cache);
-
+	/**
+	 * Checks if a given movie title exist in the cache.
+	 * @returns {Boolean} 
+	*/
 	const findInCache = (title) => cache.find(movie => movie.title.toLowerCase() === title.toLowerCase());
 
 	for (let i = 0; i < maxMovies; i++) {
-		let movieFound = false;
-		while (!movieFound) {
+		let searchingForFilm = true;
+		while (searchingForFilm) {
 			const answer = await inquirer.prompt([
 				{
 					type: 'input',
@@ -46,8 +48,7 @@ const askForMovies = async (initialCount, maxMovies) => {
 				const searchResults = await searchMovies(movieTitle);
 				if (searchResults.length > 0) {
 					// console.log(`Found: ${searchResults[0].title}`);
-					movieData = { id: searchResults[0].id, title: searchResults[0].title };
-					cache.push(movieData); // Update cache
+					cache.push(searchResults[0]); // Update cache
 					movieFound = true;
 				} else {
 					console.log('Movie not found in TMDb. Please try another title.');
