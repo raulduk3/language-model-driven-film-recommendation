@@ -1,42 +1,1652 @@
 [
   {
+    "adult": false,
+    "backdrop_path": "/5OqXwHDlYSMCdqoQBXtgv130GhI.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
     "id": 37247,
-    "title": "The Graduate"
+    "imdb_id": "tt0061722",
+    "original_language": "en",
+    "original_title": "The Graduate",
+    "overview": "Benjamin, a recent college graduate very worried about his future, finds himself in a love triangle with an older woman and her daughter.",
+    "popularity": 25.181,
+    "poster_path": "/qtVvdSsm2hvau6ItLe4gWdFKe2M.jpg",
+    "production_companies": [
+      {
+        "id": 214248,
+        "logo_path": null,
+        "name": "Mike Nichols Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 47557,
+        "logo_path": null,
+        "name": "Lawrence Turman Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 419,
+        "logo_path": null,
+        "name": "Embassy Pictures Corporation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1967-12-21",
+    "revenue": 104945305,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "This is Benjamin. He’s a little worried about his future.",
+    "title": "The Graduate",
+    "video": false,
+    "vote_average": 7.651,
+    "vote_count": 3170,
+    "Title": "The Graduate",
+    "Year": "1967",
+    "Rated": "PG",
+    "Released": "21 Dec 1967",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Mike Nichols",
+    "Writer": "Calder Willingham, Buck Henry, Charles Webb",
+    "Actors": "Dustin Hoffman, Anne Bancroft, Katharine Ross",
+    "Plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 22 wins & 17 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "8.0",
+    "imdbVotes": "286,280",
+    "imdbID": "tt0061722",
+    "Type": "movie",
+    "DVD": "03 Jul 2012",
+    "BoxOffice": "$104,945,305",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   },
   {
+    "adult": false,
+    "backdrop_path": "/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
     "id": 1391,
-    "title": "Y Tu Mamá También"
+    "imdb_id": "tt0245574",
+    "original_language": "es",
+    "original_title": "Y tu mamá también",
+    "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+    "popularity": 30.602,
+    "poster_path": "/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+    "production_companies": [
+      {
+        "id": 1101,
+        "logo_path": null,
+        "name": "Bésame Mucho Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 561,
+        "logo_path": null,
+        "name": "Anhelo Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2001-06-08",
+    "revenue": 33600000,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Life has its ways of teaching.",
+    "title": "Y Tu Mamá También",
+    "video": false,
+    "vote_average": 7.417,
+    "vote_count": 1414,
+    "Title": "And Your Mother Too",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "08 Jun 2001",
+    "Runtime": "106 min",
+    "Genre": "Drama",
+    "Director": "Alfonso Cuarón",
+    "Writer": "Carlos Cuarón, Alfonso Cuarón",
+    "Actors": "Maribel Verdú, Gael García Bernal, Daniel Giménez Cacho",
+    "Plot": "In Mexico, two teenage boys and an older woman embark on a road trip and learn a thing or two about life and each other.",
+    "Language": "Spanish",
+    "Country": "Mexico",
+    "Awards": "Nominated for 1 Oscar. 39 wins & 48 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDhjMzc3ZTgtY2Y4MC00Y2U3LWFiMDctZGM3MmM4N2YzNDQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "Metascore": "89",
+    "imdbRating": "7.7",
+    "imdbVotes": "128,600",
+    "imdbID": "tt0245574",
+    "Type": "movie",
+    "DVD": "27 Sep 2016",
+    "BoxOffice": "$13,839,658",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   },
   {
-    "id": 1878,
-    "title": "Fear and Loathing in Las Vegas"
+    "adult": false,
+    "backdrop_path": "/etBZfuOie3uODTKTV5xnbAKB4Fr.jpg",
+    "belongs_to_collection": null,
+    "budget": 7500000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.foxmovies.com/movies/500-days-of-summer",
+    "id": 19913,
+    "imdb_id": "tt1022603",
+    "original_language": "en",
+    "original_title": "(500) Days of Summer",
+    "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+    "popularity": 41.115,
+    "poster_path": "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+    "production_companies": [
+      {
+        "id": 43,
+        "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+        "name": "Fox Searchlight Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4364,
+        "logo_path": null,
+        "name": "Watermark Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6332,
+        "logo_path": null,
+        "name": "Dune Entertainment III",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2009-07-17",
+    "revenue": 60781545,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "This is not a love story. This is a story about love.",
+    "title": "(500) Days of Summer",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 9664,
+    "Title": "500 Days of Summer",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "07 Aug 2009",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Marc Webb",
+    "Writer": "Scott Neustadter, Michael H. Weber",
+    "Actors": "Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend",
+    "Plot": "After being dumped by the girl he believes to be his soulmate, hopeless romantic Tom Hansen reflects on their relationship to try and figure out where things went wrong and how he can win her back.",
+    "Language": "English, French, Swedish",
+    "Country": "United States",
+    "Awards": "17 wins & 58 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.7",
+    "imdbVotes": "554,427",
+    "imdbID": "tt1022603",
+    "Type": "movie",
+    "DVD": "01 Mar 2013",
+    "BoxOffice": "$32,391,374",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   },
   {
+    "adult": false,
+    "backdrop_path": "/ambKXAJYrDPJK9wBJlIVVWbQbar.jpg",
+    "belongs_to_collection": {
+      "id": 1036702,
+      "name": "Icarus Collection",
+      "poster_path": null,
+      "backdrop_path": "/p1aK7m2z9cvngiAI9D53X7r4nJW.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "http://www.icarus.film/",
+    "id": 432976,
+    "imdb_id": "tt6333060",
+    "original_language": "en",
+    "original_title": "Icarus",
+    "overview": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
+    "popularity": 8.562,
+    "poster_path": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+    "production_companies": [
+      {
+        "id": 4183,
+        "logo_path": "/bPOaJehJ43bEq1sip5jE1G53IEE.png",
+        "name": "Diamond Docs",
+        "origin_country": "US"
+      },
+      {
+        "id": 13043,
+        "logo_path": null,
+        "name": "Rise Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 14909,
+        "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+        "name": "Impact Partners",
+        "origin_country": "US"
+      },
+      {
+        "id": 91898,
+        "logo_path": null,
+        "name": "Alex Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 91899,
+        "logo_path": null,
+        "name": "Lagralane Group, The",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2017-06-03",
+    "revenue": 0,
+    "runtime": 121,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Truth is the new banned substance",
+    "title": "Icarus",
+    "video": false,
+    "vote_average": 7.666,
+    "vote_count": 694,
+    "Title": "Icarus",
+    "Year": "2017",
+    "Rated": "TV-MA",
+    "Released": "04 Aug 2017",
+    "Runtime": "120 min",
+    "Genre": "Documentary, Sport",
+    "Director": "Bryan Fogel",
+    "Writer": "Bryan Fogel, Mark Monroe, Jon Bertain",
+    "Actors": "Bryan Fogel, Dave Zabriskie, Don Catlin",
+    "Plot": "When Bryan sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller.",
+    "Language": "English, Russian",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 9 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ1ZmJlMDEtMWRhMy00YzcyLWIwNzktMmUxZTQwNmQ2YzZkXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "7.9",
+    "imdbVotes": "54,469",
+    "imdbID": "tt6333060",
+    "Type": "movie",
+    "DVD": "04 Aug 2017",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+    "belongs_to_collection": null,
+    "budget": 11000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "homepage": "",
+    "id": 3175,
+    "imdb_id": "tt0072684",
+    "original_language": "en",
+    "original_title": "Barry Lyndon",
+    "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+    "popularity": 18.741,
+    "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 88,
+        "logo_path": null,
+        "name": "Hawk Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 11272,
+        "logo_path": null,
+        "name": "Peregrine",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1975-12-18",
+    "revenue": 198992,
+    "runtime": 185,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "At long last Redmond Barry became a gentleman—and that was his tragedy.",
+    "title": "Barry Lyndon",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 2665,
+    "Title": "Barry Lyndon",
+    "Year": "1975",
+    "Rated": "PG",
+    "Released": "18 Dec 1975",
+    "Runtime": "185 min",
+    "Genre": "Adventure, Drama, War",
+    "Director": "Stanley Kubrick",
+    "Writer": "Stanley Kubrick, William Makepeace Thackeray",
+    "Actors": "Ryan O'Neal, Marisa Berenson, Patrick Magee",
+    "Plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    "Language": "English, German, French",
+    "Country": "United Kingdom, United States",
+    "Awards": "Won 4 Oscars. 17 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "Metascore": "89",
+    "imdbRating": "8.1",
+    "imdbVotes": "182,262",
+    "imdbID": "tt0072684",
+    "Type": "movie",
+    "DVD": "31 Dec 2007",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+    "belongs_to_collection": null,
+    "budget": 4000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 770,
+    "imdb_id": "tt0031381",
+    "original_language": "en",
+    "original_title": "Gone with the Wind",
+    "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+    "popularity": 31.045,
+    "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+    "production_companies": [
+      {
+        "id": 1553,
+        "logo_path": null,
+        "name": "Selznick International Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1939-12-15",
+    "revenue": 402352579,
+    "runtime": 233,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The greatest romance of all time!",
+    "title": "Gone with the Wind",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 3839,
+    "Title": "Gone with the Wind",
+    "Year": "1939",
+    "Rated": "Passed",
+    "Released": "17 Jan 1940",
+    "Runtime": "238 min",
+    "Genre": "Drama, Romance, War",
+    "Director": "Victor Fleming, George Cukor, Sam Wood",
+    "Writer": "Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett",
+    "Actors": "Clark Gable, Vivien Leigh, Thomas Mitchell",
+    "Plot": "A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 8 Oscars. 21 wins & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "97/100"
+      }
+    ],
+    "Metascore": "97",
+    "imdbRating": "8.2",
+    "imdbVotes": "333,056",
+    "imdbID": "tt0031381",
+    "Type": "movie",
+    "DVD": "19 May 2016",
+    "BoxOffice": "$200,882,193",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vlbTPrt664RAIeMYtgnqCYQPfgR.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://a24films.com/films/dream-scenario",
+    "id": 823482,
+    "imdb_id": "tt21942866",
+    "original_language": "en",
+    "original_title": "Dream Scenario",
+    "overview": "Hapless family man Paul Matthews finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.",
+    "popularity": 94.425,
+    "poster_path": "/zhEaG0KQ32KerHEWmImsYLexDix.jpg",
+    "production_companies": [
+      {
+        "id": 41077,
+        "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "name": "A24",
+        "origin_country": "US"
+      },
+      {
+        "id": 123620,
+        "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+        "name": "Square Peg",
+        "origin_country": "US"
+      },
+      {
+        "id": 831,
+        "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+        "name": "Saturn Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-11-10",
+    "revenue": 14114415,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Meet the man of your dreams.",
+    "title": "Dream Scenario",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 507,
+    "Title": "Dream Scenario",
+    "Year": "2023",
+    "Rated": "R",
+    "Released": "22 Nov 2023",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Horror",
+    "Director": "Kristoffer Borgli",
+    "Writer": "Kristoffer Borgli",
+    "Actors": "Lily Bird, Nicolas Cage, Julianne Nicholson",
+    "Plot": "A hapless family man finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. When his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.",
+    "Language": "English, French",
+    "Country": "United States",
+    "Awards": "1 win & 17 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDI4MjI1YmYtYzg1Ny00MWQzLWIwNTgtNmFkMWNhYTYzYjdkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "46,904",
+    "imdbID": "tt21942866",
+    "Type": "movie",
+    "DVD": "22 Dec 2023",
+    "BoxOffice": "$5,742,193",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/g5gwbwR98yN1TvycqHCJZhCPa7O.jpg",
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "",
+    "id": 2323,
+    "imdb_id": "tt0097351",
+    "original_language": "en",
+    "original_title": "Field of Dreams",
+    "overview": "Ray Kinsella is an Iowa farmer who hears a mysterious voice telling him to turn his cornfield into a baseball diamond. He does, but the voice's directions don't stop -- even after the spirits of deceased ballplayers turn up to play.",
+    "popularity": 22.932,
+    "poster_path": "/8PT4sAcneQ7MtZ1Mqoe2EyOJHmZ.jpg",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1073,
+        "logo_path": null,
+        "name": "Gordon Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1989-04-21",
+    "revenue": 84431625,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "All his life, Ray Kinsella was searching for his dreams. Then one day, his dreams came looking for him.",
+    "title": "Field of Dreams",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 1382,
+    "Title": "Field of Dreams",
+    "Year": "1989",
+    "Rated": "PG",
+    "Released": "05 May 1989",
+    "Runtime": "107 min",
+    "Genre": "Drama, Family, Fantasy",
+    "Director": "Phil Alden Robinson",
+    "Writer": "W.P. Kinsella, Phil Alden Robinson",
+    "Actors": "Kevin Costner, James Earl Jones, Ray Liotta",
+    "Plot": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 3 Oscars. 8 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzk5OWY0YjAtYWU3ZS00Y2Q4LWFlNjItMzgwMTQ2MjIyMDFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "57/100"
+      }
+    ],
+    "Metascore": "57",
+    "imdbRating": "7.5",
+    "imdbVotes": "127,340",
+    "imdbID": "tt0097351",
+    "Type": "movie",
+    "DVD": "15 Jun 2012",
+    "BoxOffice": "$64,431,625",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+    "belongs_to_collection": null,
+    "budget": 927262,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 996,
+    "imdb_id": "tt0036775",
+    "original_language": "en",
+    "original_title": "Double Indemnity",
+    "overview": "A rich woman and a calculating insurance agent plot to kill her unsuspecting husband after he signs a double indemnity policy. Against a backdrop of distinctly Californian settings, the partners in crime plan the perfect murder to collect the insurance, which pays double if the death is accidental.",
+    "popularity": 18.813,
+    "poster_path": "/n8Mfx7JNbj6lo24laFL1sZYEKHs.jpg",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1944-07-06",
+    "revenue": 2500000,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "It's love and murder at first sight!",
+    "title": "Double Indemnity",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 1696,
+    "Title": "Double Indemnity",
+    "Year": "1944",
+    "Rated": "Passed",
+    "Released": "06 Jul 1944",
+    "Runtime": "107 min",
+    "Genre": "Crime, Drama, Film-Noir",
+    "Director": "Billy Wilder",
+    "Writer": "Billy Wilder, Raymond Chandler, James M. Cain",
+    "Actors": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",
+    "Plot": "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 7 Oscars. 2 wins & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "95/100"
+      }
+    ],
+    "Metascore": "95",
+    "imdbRating": "8.3",
+    "imdbVotes": "166,696",
+    "imdbID": "tt0036775",
+    "Type": "movie",
+    "DVD": "01 Oct 2014",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1391,
+    "imdb_id": "tt0245574",
+    "original_language": "es",
+    "original_title": "Y tu mamá también",
+    "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+    "popularity": 30.602,
+    "poster_path": "/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+    "production_companies": [
+      {
+        "id": 1101,
+        "logo_path": null,
+        "name": "Bésame Mucho Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 561,
+        "logo_path": null,
+        "name": "Anhelo Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2001-06-08",
+    "revenue": 33600000,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Life has its ways of teaching.",
+    "title": "Y Tu Mamá También",
+    "video": false,
+    "vote_average": 7.417,
+    "vote_count": 1414
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vZk1IggF5XQj4mS7kxG4IiHUSWq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
     "id": 5335,
-    "title": "Theorem"
+    "imdb_id": "tt0063678",
+    "original_language": "it",
+    "original_title": "Teorema",
+    "overview": "A wealthy Italian household is turned upside down when a handsome stranger arrives, seduces every family member and then disappears. Each has an epiphany of sorts, but none can figure out who the seductive visitor was or why he came.",
+    "popularity": 20.065,
+    "poster_path": "/k7rEBaYUTgdxVqYl9aZm5ZcoB41.jpg",
+    "production_companies": [
+      {
+        "id": 45347,
+        "logo_path": null,
+        "name": "Aetos Produzioni Cinematografiche",
+        "origin_country": ""
+      },
+      {
+        "id": 6775,
+        "logo_path": null,
+        "name": "B.R.C. Produzione Film",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1968-09-07",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "There are only 923 words spoken in \"Teorema\" – but it says everything!",
+    "title": "Theorem",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 379,
+    "Title": "Teorema",
+    "Year": "1968",
+    "Rated": "Not Rated",
+    "Released": "27 Nov 1968",
+    "Runtime": "98 min",
+    "Genre": "Drama, Mystery",
+    "Director": "Pier Paolo Pasolini",
+    "Writer": "Pier Paolo Pasolini",
+    "Actors": "Silvana Mangano, Terence Stamp, Massimo Girotti",
+    "Plot": "A mysterious young man seduces each member of a bourgeois family. When he suddenly leaves, how will their lives change?",
+    "Language": "Italian, English",
+    "Country": "Italy",
+    "Awards": "1 win & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODA1ZWZiZWYtYjVhMC00ZGQxLWI1Y2MtM2VmYjg2MzQyMDM3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "15,086",
+    "imdbID": "tt0063678",
+    "Type": "movie",
+    "DVD": "27 Dec 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   },
   {
+    "adult": false,
+    "backdrop_path": "/utckhnfdD1Z8cE5isr38a5LSTG8.jpg",
+    "belongs_to_collection": {
+      "id": 9649,
+      "name": "Mexico Collection",
+      "poster_path": "/9sj1GR6N7kvECj99ppPvUc9kIZ9.jpg",
+      "backdrop_path": "/6p1OzuIKWnTDfDea7IpB9xra5J.jpg"
+    },
+    "budget": 7225,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "homepage": "",
     "id": 9367,
-    "title": "El Mariachi"
+    "imdb_id": "tt0104815",
+    "original_language": "es",
+    "original_title": "El Mariachi",
+    "overview": "El Mariachi just wants to play his guitar and carry on the family tradition. Unfortunately, the town he tries to find work in has another visitor, a killer who carries his guns in a guitar case. The drug lord and his henchmen mistake el Mariachi for the killer, Azul, and chase him around town trying to kill him and get his guitar case.",
+    "popularity": 14.484,
+    "poster_path": "/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11705,
+        "logo_path": null,
+        "name": "Los Hooligans Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1993-02-22",
+    "revenue": 2000000,
+    "runtime": 81,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "With a guitar in his hand and a price on his head, he wasn't looking for trouble. But trouble came looking for him.",
+    "title": "El Mariachi",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 1062,
+    "Title": "El Mariachi",
+    "Year": "1992",
+    "Rated": "R",
+    "Released": "26 Feb 1993",
+    "Runtime": "81 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Robert Rodriguez",
+    "Writer": "Robert Rodriguez",
+    "Actors": "Carlos Gallardo, Consuelo Gómez, Jaime de Hoyos",
+    "Plot": "A traveling mariachi is mistaken for a murderous criminal and must hide from a gang bent on killing him.",
+    "Language": "Spanish, English",
+    "Country": "Mexico, United States",
+    "Awards": "7 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjMwNzA1NmQtYjUyYS00MTNlLWJiNDktODM3YTFlZDA0ZWUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "6.8",
+    "imdbVotes": "70,737",
+    "imdbID": "tt0104815",
+    "Type": "movie",
+    "DVD": "16 Apr 2012",
+    "BoxOffice": "$2,040,920",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   },
   {
-    "id": 603,
-    "title": "The Matrix"
+    "adult": false,
+    "backdrop_path": "/35uGiE6AFbZBUCqcYGPANLuuoMn.jpg",
+    "belongs_to_collection": null,
+    "budget": 750000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 8327,
+    "imdb_id": "tt0071615",
+    "original_language": "es",
+    "original_title": "La montaña sagrada",
+    "overview": "The Alchemist assembles together a group of people from all walks of life to represent the planets in the solar system. The occult adept's intention is to put his recruits through strange mystical rites and divest them of their worldly baggage before embarking on a trip to Lotus Island. There they ascend the Holy Mountain to displace the immortal gods who secretly rule the universe.",
+    "popularity": 21.757,
+    "poster_path": "/nvwbOcV3jJExT090Bb2m7fNjzTN.jpg",
+    "production_companies": [
+      {
+        "id": 2437,
+        "logo_path": null,
+        "name": "Producciones Zohar",
+        "origin_country": ""
+      },
+      {
+        "id": 100069,
+        "logo_path": null,
+        "name": "ABKCO Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1973-11-29",
+    "revenue": 96262,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Holy Mountain",
+    "video": false,
+    "vote_average": 7.59,
+    "vote_count": 848,
+    "Title": "The Holy Mountain",
+    "Year": "1973",
+    "Rated": "16+",
+    "Released": "11 Jul 1975",
+    "Runtime": "114 min",
+    "Genre": "Adventure, Drama, Fantasy",
+    "Director": "Alejandro Jodorowsky",
+    "Writer": "Alejandro Jodorowsky",
+    "Actors": "Alejandro Jodorowsky, Horacio Salinas, Zamira Saunders",
+    "Plot": "In a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.",
+    "Language": "Spanish, English",
+    "Country": "Mexico",
+    "Awards": "1 win & 1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzM2I5NTQtMTIyMy00YWM2LWI1OGMtNjI0MWIyNDZkZGFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.8",
+    "imdbVotes": "47,735",
+    "imdbID": "tt0071615",
+    "Type": "movie",
+    "DVD": "10 Aug 2016",
+    "BoxOffice": "$61,001",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   },
   {
-    "id": 383498,
-    "title": "Deadpool 2"
+    "adult": false,
+    "backdrop_path": "/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1391,
+    "imdb_id": "tt0245574",
+    "original_language": "es",
+    "original_title": "Y tu mamá también",
+    "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+    "popularity": 27.901,
+    "poster_path": "/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+    "production_companies": [
+      {
+        "id": 1101,
+        "logo_path": null,
+        "name": "Bésame Mucho Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 561,
+        "logo_path": null,
+        "name": "Anhelo Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2001-06-08",
+    "revenue": 33600000,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Life has its ways of teaching.",
+    "title": "Y Tu Mamá También",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 1415
   },
   {
-    "id": 293660,
-    "title": "Deadpool"
+    "adult": false,
+    "backdrop_path": "/bQKLPqGrGaFquhq2mBlZuL79T3z.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 33247,
+    "imdb_id": "tt0104745",
+    "original_language": "en",
+    "original_title": "The Living End",
+    "overview": "Two HIV-positive young men — a semi-employed film critic and a hot hustler — tear off on a cross-country crime spree.",
+    "popularity": 8.301,
+    "poster_path": "/iXif32ZOWkir3fI4Ry3RVINxtzW.jpg",
+    "production_companies": [
+      {
+        "id": 236,
+        "logo_path": null,
+        "name": "October Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 1474,
+        "logo_path": null,
+        "name": "Desperate Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 5231,
+        "logo_path": null,
+        "name": "Cineplex-Odeon Films",
+        "origin_country": ""
+      },
+      {
+        "id": 3923,
+        "logo_path": "/qFWM5g28knWRu4MRv0IptS7SCSP.png",
+        "name": "Strand Releasing",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1992-08-14",
+    "revenue": 692585,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "An irresponsible movie by Gregg Araki.",
+    "title": "The Living End",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 63,
+    "Title": "The Living End",
+    "Year": "1992",
+    "Rated": "Unrated",
+    "Released": "21 Aug 1992",
+    "Runtime": "81 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Gregg Araki",
+    "Writer": "Gregg Araki",
+    "Actors": "Mike Dytri, Craig Gilmore, Mark Finch",
+    "Plot": "Luke is a gay hustler. Jon is a movie critic. Both are HIV positive. They go on a hedonistic, dangerous journey, their motto \"Fuck the world\".",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ0MzY2NzAtZTkwOS00MTU0LThhMDYtODJjZTRiMWQyMDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "75%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.5",
+    "imdbVotes": "3,703",
+    "imdbID": "tt0104745",
+    "Type": "movie",
+    "DVD": "23 Jul 2013",
+    "BoxOffice": "$692,585",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   },
   {
-    "id": 391713,
-    "title": "Lady Bird"
+    "adult": false,
+    "backdrop_path": "/5OqXwHDlYSMCdqoQBXtgv130GhI.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 37247,
+    "imdb_id": "tt0061722",
+    "original_language": "en",
+    "original_title": "The Graduate",
+    "overview": "Benjamin, a recent college graduate very worried about his future, finds himself in a love triangle with an older woman and her daughter.",
+    "popularity": 27.84,
+    "poster_path": "/qtVvdSsm2hvau6ItLe4gWdFKe2M.jpg",
+    "production_companies": [
+      {
+        "id": 214248,
+        "logo_path": null,
+        "name": "Mike Nichols Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 47557,
+        "logo_path": null,
+        "name": "Lawrence Turman Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 419,
+        "logo_path": null,
+        "name": "Embassy Pictures Corporation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1967-12-21",
+    "revenue": 104945305,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "This is Benjamin. He’s a little worried about his future.",
+    "title": "The Graduate",
+    "video": false,
+    "vote_average": 7.651,
+    "vote_count": 3175
   },
   {
-    "id": 475557,
-    "title": "Joker"
+    "adult": false,
+    "backdrop_path": "/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1391,
+    "imdb_id": "tt0245574",
+    "original_language": "es",
+    "original_title": "Y tu mamá también",
+    "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+    "popularity": 27.901,
+    "poster_path": "/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+    "production_companies": [
+      {
+        "id": 1101,
+        "logo_path": null,
+        "name": "Bésame Mucho Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 561,
+        "logo_path": null,
+        "name": "Anhelo Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2001-06-08",
+    "revenue": 33600000,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Life has its ways of teaching.",
+    "title": "Y Tu Mamá También",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 1415
   }
 ]
