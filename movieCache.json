@@ -457,10 +457,13 @@
     "homepage": "",
     "id": 1391,
     "imdb_id": "tt0245574",
+    "origin_country": [
+      "MX"
+    ],
     "original_language": "es",
     "original_title": "Y tu mamá también",
     "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
-    "popularity": 27.901,
+    "popularity": 39.012,
     "poster_path": "/izw41PkE8y891yraO6fN1tCNmOG.jpg",
     "production_companies": [
       {
@@ -497,42 +500,551 @@
     "title": "Y Tu Mamá También",
     "video": false,
     "vote_average": 7.4,
-    "vote_count": 1415,
-    "Title": "And Your Mother Too",
-    "Year": "2001",
-    "Rated": "R",
-    "Released": "08 Jun 2001",
-    "Runtime": "106 min",
-    "Genre": "Drama",
-    "Director": "Alfonso Cuarón",
-    "Writer": "Carlos Cuarón, Alfonso Cuarón",
-    "Actors": "Maribel Verdú, Gael García Bernal, Daniel Giménez Cacho",
-    "Plot": "In Mexico, two teenage boys and an older woman embark on a road trip and learn a thing or two about life and each other.",
-    "Language": "Spanish",
-    "Country": "Mexico",
-    "Awards": "Nominated for 1 Oscar. 39 wins & 48 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDhjMzc3ZTgtY2Y4MC00Y2U3LWFiMDctZGM3MmM4N2YzNDQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "vote_count": 1416
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1tqFPSCXcpQhozWiVFasq5AudQz.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 9655,
+    "imdb_id": "tt0454945",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "She's the Man",
+    "overview": "Viola Hastings is in a real jam. Complications threaten her scheme to pose as her twin brother, Sebastian, and take his place at a new boarding school. She falls in love with her handsome roommate, Duke, who loves beautiful Olivia, who has fallen for Sebastian! As if that were not enough, Viola's twin returns from London ahead of schedule but has no idea that his sister has already replaced him on campus.",
+    "popularity": 38.117,
+    "poster_path": "/gdF2PEBdwoohpPqKL93eCk17zNO.jpg",
+    "production_companies": [
+      {
+        "id": 126,
+        "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
+        "name": "Lakeshore Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/1kqoutvio9eDaQpp0l4gQoEF4Yf.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 431,
+        "logo_path": "/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png",
+        "name": "The Donners' Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2006-03-17",
+    "revenue": 33900000,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "If you wanna chase your dream, sometimes you gotta break the rules.",
+    "title": "She's the Man",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 2881,
+    "Title": "She's the Man",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "17 Mar 2006",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Romance, Sport",
+    "Director": "Andy Fickman",
+    "Writer": "Ewan Leslie, Karen McCullah, Kirsten Smith",
+    "Actors": "Amanda Bynes, Laura Ramsey, Channing Tatum",
+    "Plot": "When her brother decides to ditch for a couple weeks, Viola heads over to his elite boarding school, disguised as him, and proceeds to fall for his school's star soccer player, and soon learns she's not the only one with romantic ...",
+    "Language": "English, French",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDM1ZTRiN2ItNDQ2MC00Y2I2LTkwODQtOThhNGQ3ZjRmOWNhXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.7/10"
+        "Value": "6.4/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "91%"
+        "Value": "44%"
       },
       {
         "Source": "Metacritic",
-        "Value": "89/100"
+        "Value": "45/100"
       }
     ],
-    "Metascore": "89",
-    "imdbRating": "7.7",
-    "imdbVotes": "128,600",
-    "imdbID": "tt0245574",
+    "Metascore": "45",
+    "imdbRating": "6.4",
+    "imdbVotes": "174,396",
+    "imdbID": "tt0454945",
     "Type": "movie",
-    "DVD": "27 Sep 2016",
-    "BoxOffice": "$13,839,658",
+    "DVD": "26 Sep 2016",
+    "BoxOffice": "$33,741,133",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/euCnMxNRlHNxA4f9BMnWbmxPOse.jpg",
+    "belongs_to_collection": {
+      "id": 86066,
+      "name": "Despicable Me Collection",
+      "poster_path": "/95prV91f4DxkBnLU43YjLbU1m3q.jpg",
+      "backdrop_path": "/37xamYKRUGCRux532lKcZdVGYuR.jpg"
+    },
+    "budget": 69000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "http://www.despicable.me/",
+    "id": 20352,
+    "imdb_id": "tt1323594",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Despicable Me",
+    "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+    "popularity": 88.75,
+    "poster_path": "/m4iTsqq445iawtkYgQMq7DzQHAO.jpg",
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-07-08",
+    "revenue": 533700000,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Some call him bad. They call him Dad.",
+    "title": "Despicable Me",
+    "video": false,
+    "vote_average": 7.235,
+    "vote_count": 14522,
+    "Title": "Despicable Me",
+    "Year": "2010",
+    "Rated": "PG",
+    "Released": "09 Jul 2010",
+    "Runtime": "95 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Pierre Coffin, Chris Renaud",
+    "Writer": "Cinco Paul, Ken Daurio, Sergio Pablos",
+    "Actors": "Steve Carell, Jason Segel, Russell Brand",
+    "Plot": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see the evildoer as their potential father.",
+    "Language": "English, Russian, Ukrainian",
+    "Country": "United States, France, Japan",
+    "Awards": "Nominated for 1 BAFTA Award3 wins & 41 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.6",
+    "imdbVotes": "582,023",
+    "imdbID": "tt1323594",
+    "Type": "movie",
+    "DVD": "01 Dec 2015",
+    "BoxOffice": "$251,683,815",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "homepage": "http://www.foxsearchlight.com/12yearsaslave",
+    "id": 76203,
+    "imdb_id": "tt2024544",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "12 Years a Slave",
+    "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+    "popularity": 34.207,
+    "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+    "production_companies": [
+      {
+        "id": 10104,
+        "logo_path": "/wRn5HnYMGeJHmItRypgOZOC6gwY.png",
+        "name": "New Regency Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 81,
+        "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+        "name": "Plan B Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 1246,
+        "logo_path": "/s0doRYEVWp3a4Y4Cg7R4fE9cwov.png",
+        "name": "River Road Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "logo_path": "/7cxRWzi4LsVm4Utfpr1hfARNurT.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 6705,
+        "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+        "name": "Film4 Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2013-10-18",
+    "revenue": 187000000,
+    "runtime": 134,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The extraordinary true story of Solomon Northup",
+    "title": "12 Years a Slave",
+    "video": false,
+    "vote_average": 7.943,
+    "vote_count": 10947,
+    "Title": "12 Years a Slave",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "08 Nov 2013",
+    "Runtime": "134 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Steve McQueen",
+    "Writer": "John Ridley, Solomon Northup",
+    "Actors": "Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",
+    "Plot": "In the antebellum United States, Solomon Northup, a free Black man from upstate New York, is abducted and sold into slavery.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "Won 3 Oscars. 244 wins & 337 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "96/100"
+      }
+    ],
+    "Metascore": "96",
+    "imdbRating": "8.1",
+    "imdbVotes": "738,643",
+    "imdbID": "tt2024544",
+    "Type": "movie",
+    "DVD": "31 Aug 2015",
+    "BoxOffice": "$56,671,993",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dLAgQQfiqDxPZZOoHYoA0RHXVNf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 43818,
+    "imdb_id": "tt0032943",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Pride and Prejudice",
+    "overview": "Mr. and Mrs. Bennet have five unmarried daughters, and Mrs. Bennet is especially eager to find suitable husbands for them. When the rich single gentlemen Mr. Bingley and Mr. Darcy come to live nearby, the Bennets have high hopes. But pride, prejudice and misunderstandings all combine to complicate their relationships and to make happiness difficult.",
+    "popularity": 13.446,
+    "poster_path": "/50SMVJNtOF7MdmtCrIA08xeqytN.jpg",
+    "production_companies": [
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 1460,
+        "logo_path": null,
+        "name": "Loew's Incorporated",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1940-07-26",
+    "revenue": 0,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The Gayest Comedy Hit of the Screen! Five Gorgeous Beauties on a Mad-Cap Manhunt!",
+    "title": "Pride and Prejudice",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 135,
+    "Title": "Pride and Prejudice",
+    "Year": "1940",
+    "Rated": "Approved",
+    "Released": "26 Jul 1940",
+    "Runtime": "118 min",
+    "Genre": "Drama, Romance",
+    "Director": "Robert Z. Leonard",
+    "Writer": "Aldous Huxley, Jane Murfin, Jane Austen",
+    "Actors": "Greer Garson, Laurence Olivier, Mary Boland",
+    "Plot": "The arrival of wealthy bachelors in town causes an uproar when families with single daughters aggressively seek engagements, including the Bennet family, with five eligible daughters.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 2 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjhmMjM3OGItOWEzOS00OTgyLWFkMTMtNjI0ZGU4NGIxYzJjXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.4",
+    "imdbVotes": "9,142",
+    "imdbID": "tt0032943",
+    "Type": "movie",
+    "DVD": "10 Oct 2008",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7JhsJxNmdW0y4IyNrHy10cECrAz.jpg",
+    "belongs_to_collection": {
+      "id": 180546,
+      "name": "Grown Ups Collection",
+      "poster_path": "/7nXEfV4zwd1s74B4fcOgnCW57eY.jpg",
+      "backdrop_path": "/jKtFxygwI6qNoyR7LhPczWCbvTh.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "http://www.sonypictures.com/movies/grownups2",
+    "id": 109418,
+    "imdb_id": "tt2191701",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Grown Ups 2",
+    "overview": "Lenny has relocated his family back to the small town where he and his friends grew up. This time around, the grown ups are the ones learning lessons from their kids on a day notoriously full of surprises—the last day of school.",
+    "popularity": 79.595,
+    "poster_path": "/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 878,
+        "logo_path": "/e2AZdsQdkhN0qJhoN4TMYiVPLyb.png",
+        "name": "Happy Madison Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2013-07-11",
+    "revenue": 247022278,
+    "runtime": 101,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Just because they're a little older doesn't mean they've grown up.",
+    "title": "Grown Ups 2",
+    "video": false,
+    "vote_average": 6.123,
+    "vote_count": 4116,
+    "Title": "Grown Ups 2",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "12 Jul 2013",
+    "Runtime": "101 min",
+    "Genre": "Comedy",
+    "Director": "Dennis Dugan",
+    "Writer": "Fred Wolf, Adam Sandler, Tim Herlihy",
+    "Actors": "Adam Sandler, Kevin James, Chris Rock",
+    "Plot": "After moving his family back to his hometown to be with his friends and their kids, Lenny finds out that between old bullies, new bullies, schizo bus drivers, drunk cops on skis, and four hundred costumed party crashers sometimes ...",
+    "Language": "English, Spanish, Ukrainian",
+    "Country": "United States",
+    "Awards": "5 wins & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTZkZDhjZTEtZjA5MC00MDU2LTk3NDItNzA2YzQ4Y2Q5NjZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "8%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "19/100"
+      }
+    ],
+    "Metascore": "19",
+    "imdbRating": "5.4",
+    "imdbVotes": "168,785",
+    "imdbID": "tt2191701",
+    "Type": "movie",
+    "DVD": "05 Nov 2013",
+    "BoxOffice": "$133,668,525",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"

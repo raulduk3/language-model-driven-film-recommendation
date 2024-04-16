@@ -1,8 +1,12 @@
 // src/app.js
 
+console.clear()
+
 import { ingestFavoriteFilms, aggregateMovieData } from './preferences/userPreferences.js';
-// import { discoverMovies } from './discovery/movieDiscoverer.js';
-// import { evaluateRecommendations } from './recommendation/recommendationEvaluator.js';
+import { describeUserPreferences } from './preferences/llmIntegration.js';
+
+process.stdout.write("\x1b[35m)
+
 
 // Ingest user's favorite films
 const favoriteFilms = await ingestFavoriteFilms(5, 10);
@@ -10,10 +14,17 @@ const favoriteFilms = await ingestFavoriteFilms(5, 10);
 // Aggregate user's films metadata from TMDB/OMDB
 const movideMetadata = await aggregateMovieData(favoriteFilms);
 
-console.log(movideMetadata);
+process.stdout.write(`\n Selected films:\n`);
+for(const movie in movideMetadata) {
+    process.stdout.write(`${favoriteFilms.indexOf(movie)}. ${movie.title},\n`);
+}
 
 // Analyze user preferences based on the ingested films
-const userPreferences = analyzePreferences(favoriteFilms);
+const userPreferences = await describeUserPreferences(movideMetadata);
+
+process.stdout.write(`Analyzing....\n`);
+
+console.log("User Preference Description: userPreferences");
 
 // Discover new movies based on user preferences
 // const discoveredMovies = discoverMovies(userPreferences);

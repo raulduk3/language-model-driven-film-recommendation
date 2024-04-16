@@ -1,6 +1,6 @@
 {
 	"name": "language-model-driven-film-recommendation",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"type": "module",
 	"description": "CineMatchAI is a web application that leverages Large Language Models to provide personalized film recommendations through advanced semantic search and heuristic analysis.",
 	"main": "src/index.ts",

@@ -107,37 +107,32 @@ export const ingestFavoriteFilms = async (minMovies, maxMovies) => {
     return movies;
 };
 
-
 /**
  * A module to aggregate movie data from both sources and save it to the cache.
+ * This version ensures no duplicate movie entries in the cache.
+ * @returns {Object} aggregated movie data
  */
 export const aggregateMovieData = async (movies) => {
-    const cache = await loadCache(); 
+    const cache = await loadCache();
     let updatedCache = [...cache]; // Copy the cache to avoid mutating the original array directly
     const results = [];
 
     for (const movie of movies) {
         try {
-            // Check if the movie already exists in cache with complete metadata
             const cacheIndex = updatedCache.findIndex((cacheMovie) => cacheMovie.id === movie.id);
             let aggregatedData;
 
             if (cacheIndex !== -1 && updatedCache[cacheIndex].hasOwnProperty('imdbID') && updatedCache[cacheIndex].hasOwnProperty('imdb_id')) {
-                // Movie exists in cache with complete data, use it directly
+                // Use existing complete data from the cache
                 aggregatedData = updatedCache[cacheIndex];
             } else {
                 // Fetch data from APIs if not found in cache or incomplete
                 const tmdbDataPromise = getMovieDetails(movie.imdb_id);
                 const omdbDataPromise = getMovieMetadataByImdbId(movie.imdb_id);
-
-                // Wait for both promises to resolve
                 const [tmdbData, omdbData] = await Promise.all([tmdbDataPromise, omdbDataPromise]);
 
                 // Combine TMDB and OMDb data
-                aggregatedData = {
-                    ...tmdbData,
-                    ...omdbData
-                };
+                aggregatedData = { ...tmdbData, ...omdbData };
 
                 // Update or add the aggregated data to the cache
                 if (cacheIndex !== -1) {
@@ -153,7 +148,11 @@ export const aggregateMovieData = async (movies) => {
         }
     }
 
+    // Remove duplicates from updatedCache before saving
+    const uniqueCache = Array.from(new Map(updatedCache.map(item => [item['id'], item])).values());
+
     // Save the updated cache back to the file
-    await fs.writeFile('./movieCache.json', JSON.stringify(updatedCache, null, 2));
+    await fs.writeFile('./movieCache.json', JSON.stringify(uniqueCache, null, 2), 'utf8');
     return results;
 };
+
