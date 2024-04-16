@@ -5,7 +5,7 @@ console.clear()
 import { ingestFavoriteFilms, aggregateMovieData } from './preferences/userPreferences.js';
 import { describeUserPreferences } from './preferences/llmIntegration.js';
 
-process.stdout.write("\x1b[35m)
+process.stdout.write("\x1b[35mlanguage-model-driven-film-recommendation\x1b[0m");
 
 
 // Ingest user's favorite films
