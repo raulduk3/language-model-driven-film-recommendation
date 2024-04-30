@@ -1,36 +1,52 @@
 // src/app.js
 
-console.clear()
+console.clear();
 
-import { ingestFavoriteFilms, aggregateMovieData } from './preferences/userPreferences.js';
-import { describeUserPreferences } from './preferences/llmIntegration.js';
+import { ingestFavoriteFilms, aggregateMovieData } from './userPreferences.js';
+import { describeUserPreferences, discoverMoviesFromPreferences } from './llmIntegration.js';
 
-process.stdout.write("\x1b[35mlanguage-model-driven-film-recommendation\x1b[0m");
+/**
+ * Initializes the application, ingests user's favorite films, aggregates movie data,
+ * analyzes preferences, and discovers new movies.
+ */
+const initApp = async () => {
+    console.log("\n\n\t\t\x1b[35mlanguage-model-driven-film-recommendation\x1b[0m\n\n");
 
+    // Ingest user's favorite films
+    const favoriteFilms = await ingestFavoriteFilms(5, 10);
 
-// Ingest user's favorite films
-const favoriteFilms = await ingestFavoriteFilms(5, 10);
+    // Aggregate user's films metadata from TMDB/OMDB
+    console.log("\nAggregating film data across TMDB & OMDB...");
+    const movieMetadata = await aggregateMovieData(favoriteFilms);
+    console.log("\nAggregation Complete!\n");
 
-// Aggregate user's films metadata from TMDB/OMDB
-const movideMetadata = await aggregateMovieData(favoriteFilms);
+    console.log(`Selected films:\n`);
+    movieMetadata.forEach(movie => {
+        console.log(`\t · ${movieMetadata.indexOf(movie) + 1}. ${movie.title}`);
+    });
 
-process.stdout.write(`\n Selected films:\n`);
-for(const movie in movideMetadata) {
-    process.stdout.write(`${favoriteFilms.indexOf(movie)}. ${movie.title},\n`);
-}
+    // Analyze user preferences based on the ingested films
+    console.log("\nGenerating preference description using GPT-4...");
+    const userPreferences = await describeUserPreferences(movieMetadata);
+    console.log("\nPreference description complete!\n");
 
-// Analyze user preferences based on the ingested films
-const userPreferences = await describeUserPreferences(movideMetadata);
+    console.log(`User Preference Description: ${JSON.stringify(userPreferences)}\n`);
 
-process.stdout.write(`Analyzing....\n`);
+    // Discover new movies based on user preferences
+    console.log("Generating TMDb Discover API call...");
+    const discoveredMovies = await discoverMoviesFromPreferences(JSON.stringify(userPreferences));
+    console.log("Discovery Complete!");
 
-console.log("User Preference Description: userPreferences");
+    console.log(`API URL: ${discoveredMovies[0]}`);
+    console.log(`\nSuggested Films:`);
+    discoveredMovies[1].results.forEach((movie) => {
+        console.log(`\t · ${movie.title}`);
+    });
 
-// Discover new movies based on user preferences
-// const discoveredMovies = discoverMovies(userPreferences);
+    // Optional: Evaluate discovered movies and generate recommendations
+    // This section could be implemented as needed for further features
+};
 
-// Evaluate discovered movies and generate recommendations
-// const recommendations = evaluateRecommendations(discoveredMovies, userPreferences);
-
-// Log recommendations to the console (or handle them as needed)
-// console.log('Recommended Movies:');
+initApp().catch(error => {
+    console.error('Failed to initialize app:', error);
+});
