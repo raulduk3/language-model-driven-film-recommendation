@@ -1,6 +1,6 @@
-# CineMatchAI
+# A Retrieval-Augmented Film Recommendation System 
 
-CineMatchAI is a powerful command-line tool designed to provide personalized film recommendations using advanced semantic search and heuristic analysis powered by Large Language Models (LLMs). By interfacing with the OMDb and TMDb APIs, it offers users a deeply personalized experience, leveraging rich movie metadata to suggest films that align closely with their tastes and preferences.
+A command-line tool designed to provide personalized film recommendations using advanced semantic search and heuristic analysis powered by Large Language Models (LLMs). By interfacing with the OMDb and TMDb APIs, it offers users a deeply personalized experience, leveraging rich movie metadata to suggest films that align closely with their tastes and preferences.
 
 ## Features
 
