@@ -56,7 +56,7 @@ Follow the on-screen prompts to input your favorite films and receive personaliz
 Contributions are welcome! Whether it's adding new features, fixing bugs, or improving documentation, please feel free to fork the repository, make your changes, and submit a pull request. Check the issues tracker for areas where you can help.
 
 ## License
-CineMatchAI CLI is licensed under the ISC License - see the LICENSE file for details.
+ISC License - see the LICENSE file for details.
 
 ## Acknowledgments
 OMDb API: For providing a comprehensive database of movie metadata.
